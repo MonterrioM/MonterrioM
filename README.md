@@ -1,21 +1,21 @@
-<h1>Hi, I'm Monterrio, an <a href="https://www.linkedin.com/in/monterrio-maze-32a706371/">IT Professional</a></h1>
+<h1>Hi, I'm Monterrio, an <a href="https://www.linkedin.com/in/monterrio/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/MonterrioM/MonterrioM/edit/main/README.md#L15C17)
-  - [osTicket: Post-Installation Configuration](https://github.com/MonterrioM/MonterrioM/edit/main/README.md#L15C17)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/MonterrioM/MonterrioM/edit/main/README.md#L15C17)
+  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/MonterrioM/MonterrioM/edit/main/README.md#L15C17)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/MonterrioM/MonterrioM/edit/main/README.md#L15C17)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
+[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[<img align="left" alt="Monterrio | LinkedIn" width="55px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-
-
-[linkedin]: https://www.linkedin.com/in/monterrio-maze-32a706371/
+[twitter]: https://twitter.com/Josh
+[instagram]: https://www.instagram.com/Josh
+[linkedin]: https://linkedin.com/in/Josh
