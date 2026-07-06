@@ -10,7 +10,7 @@ CompTIA Security+ | Microsoft Certified: Azure Fundamentals (AZ-900) | SC-300 (I
 
 ---
 
-I build enterprise Identity & Access Management (IAM) labs using Microsoft Entra ID, Microsoft 365, Azure, Active Directory, RBAC, MFA, SSO, and PowerShell. My focus is securing identities, automating access management, and implementing Zero Trust security principles through hands-on labs that simulate real-world enterprise environments.
+I build enterprise Identity & Access Management (IAM) labs using Microsoft Entra ID, Microsoft 365, Azure, Active Directory, RBAC, MFA, SSO, and PowerShell. My projects simulate real-world enterprise identity administration, user lifecycle management, and Zero Trust Security.
 
 ---
 
