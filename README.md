@@ -37,7 +37,7 @@ https://github.com/MonterrioM/microsoft-entra-id-iam-lifecycle-management-lab
 ## 🔐 Microsoft Entra IAM Onboarding Lab
 
 **Repository**
-https://github.com/MonterrioM/Entra-IAM-Onboarding-Lab
+https://github.com/MonterrioM/Enra-IAM-Onboarding-Lab
 
 **Highlights**
 - User provisioning
