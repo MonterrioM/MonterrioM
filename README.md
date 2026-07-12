@@ -51,6 +51,22 @@ https://github.com/MonterrioM/Entra-IAM-Onboarding-Lab
 
 ---
 
+## 💼 Active Directory User Onboarding Automation
+
+**Repository**  
+https://github.com/MonterrioM/Active-Directory-User-Onboarding-Automation
+
+**Highlights**
+- Automated Active Directory user provisioning with PowerShell
+- Imported new users from a CSV file
+- Automatically assigned users to department Organizational Units (OUs)
+- Added users to department security groups
+- Logged successful and failed onboarding events
+- Identified and resolved a group assignment error caused by a spelling mistake
+- Verified user creation and group membership in Active Directory
+
+  ---
+
 # ☁️ Azure Projects
 
 ## Azure Active Directory
