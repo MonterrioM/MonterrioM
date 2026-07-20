@@ -16,6 +16,24 @@ I build enterprise Identity & Access Management (IAM) labs using Microsoft Entra
 
 # 🛡️ Featured IAM Projects
 
+## 🛡️ Microsoft Entra Conditional Access Policy Framework
+
+**Repository:**  
+https://github.com/MonterrioM/Conditional-Access-Policy-Framework
+
+### Highlights
+
+- Designed enterprise Conditional Access policies
+- Enforced Multifactor Authentication (MFA)
+- Required compliant devices using Microsoft Intune
+- Implemented risk-based session controls
+- Restricted Microsoft Entra Admin Center to trusted named locations
+- Applied Zero Trust security principles
+- Protected privileged administrative access
+- Documented business justifications for each security policy
+
+---
+
 ## 🔐 Microsoft Entra ID IAM Lifecycle Management (JML)
 
 **Repository**
