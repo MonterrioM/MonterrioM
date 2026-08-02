@@ -5,7 +5,7 @@ Identity & Access Management (IAM) | Microsoft Entra ID | Azure | Active Directo
 </h3>
 
 <h4 align="center">
-CompTIA Security+ | Microsoft Certified: Azure Fundamentals (AZ-900) | SC-300 (In Progress)
+CompTIA Security+ | Microsoft Certified: Azure Fundamentals (AZ-900) | Microsoft Certified: Identity and Access Administrator (SC-300)
 </h4>
 
 ---
@@ -15,6 +15,26 @@ I build enterprise Identity & Access Management (IAM) labs using Microsoft Entra
 ---
 
 # 🛡️ Featured IAM Projects
+
+## 🛡️ Microsoft Entra ID Non-Human Identity (NHI) Inventory & Remediation
+
+**Repository:**
+
+https://github.com/MonterrioM/Entra-NHI-Inventory-Remediation
+
+### Highlights
+
+- Built an end-to-end Microsoft Entra ID Non-Human Identity (NHI) security remediation lab.
+- Created three enterprise application registrations to simulate real-world service principals.
+- Used Microsoft Graph PowerShell to inventory service principals and export before/after CSV reports.
+- Identified orphaned applications with no assigned owner.
+- Rotated expiring client secrets and securely removed temporary credentials.
+- Applied the Principle of Least Privilege by removing unnecessary Microsoft Graph API permissions.
+- Created a formal risk register documenting findings, evidence, business impact, and remediation recommendations.
+- Validated the environment before and after remediation to confirm all security findings were successfully resolved.
+- Documented the complete project with screenshots, PowerShell automation, remediation steps, and validation evidence.
+
+---
 
 ## 🛡️ Microsoft Entra Conditional Access Policy Framework
 
@@ -157,6 +177,7 @@ Configured an enterprise osTicket environment by creating departments, teams, ro
 
 ### Automation
 - PowerShell
+- Microsoft Graph PowerShell SDK
 
 ---
 
@@ -166,7 +187,7 @@ Configured an enterprise osTicket environment by creating departments, teams, ro
 
 ✔ Microsoft Certified: Azure Fundamentals (AZ-900)
 
-⏳ Microsoft Certified: Identity and Access Administrator (SC-300) *(In Progress)*
+✔ Microsoft Certified: Identity and Access Administrator (SC-300) 
 
 ---
 
